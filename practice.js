@@ -1,3 +1,5 @@
+// Finding odd numbers in an array
+
 var num = 10;
 var count = 0;
 for(var i = 1; i<= num; i++){
