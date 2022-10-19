@@ -1,3 +1,16 @@
+
+// My Login Credentials
+var username = "gautamsinghgolu12@gmai.com";
+var password = "123@123";
+
+
+
+
+
+
+
+
+
 // Finding odd numbers in an array
 
 var num = 10;
